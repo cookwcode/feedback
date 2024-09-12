@@ -1,5 +1,5 @@
 ---
-name: I have a suggestion
+name: I have a suggestion 🙋‍♀️
 about: I have an idea for an enhancement to the site or other feedback comments. Lay it on me!
 labels: suggestion
 assignees: ""

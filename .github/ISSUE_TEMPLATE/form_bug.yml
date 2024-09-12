@@ -1,5 +1,5 @@
-name: Something's wrong
-description: File a bug report.
+name: Something's wrong 🤔
+description: Something is wrong or could use fixing. Let me know what's going on!
 title: "[Bug]: "
 labels: ["bug"]
 body:

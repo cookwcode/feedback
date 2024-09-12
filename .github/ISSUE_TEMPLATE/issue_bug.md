@@ -1,6 +1,6 @@
 ---
-name: Bug Report
-about: Something is wrong or could use fixing
+name: Something's wrong
+about: Something is wrong or could use fixing. Let me know what's going on!
 labels: bug
 assignees: ""
 ---

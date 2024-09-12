@@ -7,42 +7,42 @@ body:
     attributes:
       value: |
         Whoops, sounds like something isn't working right or could use fixing. Please let me know the details and I'll check it out. Thanks!
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Give a clear and concise description of what is wrong.
-      placeholder: Tell me what you see!
-      value: "A bug happened!"
-    validations:
-      required: true
-  - type: input
-    id: relevant-link
-    attributes:
-      label: Relevant link (optional)
-      description: If applicable, provide a link related to this issue.
-      placeholder: https://example.com
-    validations:
-      required: false
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-  - type: textarea
-    id: additional-context
-    attributes:
-      label: Additional context
-      description: Add any other context about the problem here.
-      placeholder: Any additional information that might be helpful...
-    validations:
-      required: false
-  - type: markdown
-    attributes:
-      value: |
-        All good? Cool. Thanks for taking the time to do this!
+  # - type: textarea
+  #   id: what-happened
+  #   attributes:
+  #     label: What happened?
+  #     description: Give a clear and concise description of what is wrong.
+  #     placeholder: Tell me what you see!
+  #     value: "A bug happened!"
+  #   validations:
+  #     required: true
+  # - type: input
+  #   id: relevant-link
+  #   attributes:
+  #     label: Relevant link (optional)
+  #     description: If applicable, provide a link related to this issue.
+  #     placeholder: https://example.com
+  #   validations:
+  #     required: false
+  # - type: dropdown
+  #   id: browsers
+  #   attributes:
+  #     label: What browsers are you seeing the problem on?
+  #     multiple: true
+  #     options:
+  #       - Firefox
+  #       - Chrome
+  #       - Safari
+  #       - Microsoft Edge
+  # - type: textarea
+  #   id: additional-context
+  #   attributes:
+  #     label: Additional context
+  #     description: Add any other context about the problem here.
+  #     placeholder: Any additional information that might be helpful...
+  #   validations:
+  #     required: false
+  # - type: markdown
+  #   attributes:
+  #     value: |
+  #       All good? Cool. Thanks for taking the time to do this!

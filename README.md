@@ -2,6 +2,8 @@
 
 _Provide some feedback in the form of GitHub Issues_
 
+**[✏️ Share some feedback](https://github.com/cookwcode/feedback/issues/new/choose)**
+
 ## Welcome
 
 Hi there! Thanks for taking the time to share your feedback about this project. Please create a GitHub Issue and let me know your thoughts and I'll take a look.
@@ -11,3 +13,10 @@ Hi there! Thanks for taking the time to share your feedback about this project. 
 Thanks!
 
 Zach
+
+## Links
+
+- [Sharing some feedback](https://github.com/cookwcode/feedback/issues/new/choose)
+- [Main Issue page](https://github.com/cookwcode/feedback/issues)
+
+💛

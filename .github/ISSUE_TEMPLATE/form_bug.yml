@@ -13,17 +13,8 @@ body:
       label: What happened?
       description: Give a clear and concise description of what is wrong.
       placeholder: Tell me what you see!
-      value: "A bug happened!"
     validations:
       required: true
-  - type: input
-    id: relevant-link
-    attributes:
-      label: Relevant link (optional)
-      description: If applicable, provide a link related to this issue.
-      placeholder: https://example.com
-    validations:
-      required: false
   - type: dropdown
     id: browsers
     attributes:
@@ -34,6 +25,16 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
+    validations:
+      required: true
+  - type: input
+    id: relevant-link
+    attributes:
+      label: Relevant link
+      description: If applicable, provide a link related to this issue.
+      placeholder: https://example.com
+    validations:
+      required: false
   - type: textarea
     id: additional-context
     attributes:

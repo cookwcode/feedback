@@ -8,7 +8,11 @@ _Provide some feedback in the form of GitHub Issues_
 
 ## Welcome 👋
 
-Hi there! Thanks for taking the time to share your feedback about this project. From a bug to a suggestion to something in between, let me know about it!
+Hi there!
+
+Thanks for taking the time to share your feedback about this project.
+
+From a bug to a suggestion to something in between, let me know about it!
 
 Thanks!
 
